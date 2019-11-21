@@ -2,7 +2,7 @@
     <div>
         <input type="text" v-model="name">
         <input type="text" v-model="password">
-        <button @click="login">登录成功去首页</button>
+        <button @click="login">登录成功跳到首页</button>
     </div>
 </template>
 
